@@ -1,5 +1,6 @@
 # Tickeys
 My custom Tickeys of yingDev/Tickeys.
+But I can't use this app, Because this app is only supported on Intel Mac environment.
 source : [Tickeys](https://github.com/yingDev/Tickeys)
 
 ![Tickeys Icon](https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/icon.png)
