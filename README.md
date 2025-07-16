@@ -1,7 +1,8 @@
 # Tickeys
-My custom Tickeys of yingDev/Tickeys.
-But I can't use this app, Because this app is only supported on Intel Mac environment.
-source : [Tickeys](https://github.com/yingDev/Tickeys)
+This is keyboard hitting sound of yingDev/Tickeys.<br>
+But I could not custom this app, Because this app is only supported on Intel Mac environment.<br>
+So If you want to use this app, just check screen shots given below the post.<br>
+source : [Tickeys](https://github.com/yingDev/Tickeys)<br>
 
 ![Tickeys Icon](https://raw.githubusercontent.com/yingDev/Tickeys/master/.readme_images/icon.png)
 
